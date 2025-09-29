@@ -1,12 +1,18 @@
 {
   "name": "remotion",
   "version": "1.0.0",
+  "type": "module",
   "description": "My Remotion video",
   "repository": {},
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.354",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "openai": "^5.23.1",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "remotion": "4.0.354"
